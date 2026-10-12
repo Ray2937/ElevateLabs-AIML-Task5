@@ -1,11 +1,11 @@
 # Task 5: Decision Trees and Random Forests (Heart Disease Prediction)
 
 ## Overview
-This repository contains the solution for Task 5 of the AIML Internship at Elevate Labs[cite: 5]. The objective of this task is to train and evaluate tree-based models (Decision Trees and Random Forests) for binary classification, analyze feature importances, control overfitting, and perform cross-validation[cite: 5].
+This repository contains the solution for Task 5 of the AIML Internship at Elevate Labs. The objective of this task is to train and evaluate tree-based models (Decision Trees and Random Forests) for binary classification, analyze feature importances, control overfitting, and perform cross-validation.
 
 ## Files Included
 - `task5.py`: The complete Python script for data preprocessing, model training, tree plotting, feature importance extraction, and cross-validation.
-- `heart.csv`: The Heart Disease dataset used for classification[cite: 5].
+- `heart.csv`: The Heart Disease dataset used for classification.
 - `decision_tree.png`: Visualization of the trained Decision Tree model (limited to max depth 4).
 - `feature_importances.png`: Horizontal bar chart displaying the top feature importances derived from the Random Forest model.
 
